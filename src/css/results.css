@@ -1,0 +1,15 @@
+.results{
+    margin-top: 2rem;
+    text-align: center;
+}
+
+.results-img{
+    width: 180px;
+    height: 180px;
+    margin-bottom: 1rem;
+}
+
+.results p {
+    margin: 2rem 0;
+}
+
